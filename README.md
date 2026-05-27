@@ -6,16 +6,16 @@
 
 <div align="left">
 
-![Graduation Hat](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/graduation-hat.png?raw=true) 
+![Graduation Hat](https://github.com/marwanalasmi/marwanalasmi/blob/main/assets/icons/graduation-hat.png?raw=true)
 **Studied:Information Technology at the University of Jeddah,Saudi Arabia**
 
-![Study](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/study.png?raw=true) 
+![Study](https://github.com/marwanalasmi/marwanalasmi/blob/main/study.png?raw=true)
 **Currently Learning Full-Stack Web Development**
 
-![Target](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/target.png?raw=true) 
+![Target](https://github.com/marwanalasmi/marwanalasmi/blob/main/target.png?raw=true)
 **Actively Building Projects**
 
-![Route](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/route.png?raw=true) 
+![Route](https://github.com/marwanalasmi/marwanalasmi/blob/main/route.png?raw=true)
 **On the journey to become a professional developer**
 
 </div>
