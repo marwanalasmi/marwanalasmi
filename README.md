@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Marwan 👋</h1>
+---
 
-<!--
-**marwanalasmi/marwanalasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Graduation Hat](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/graduation-hat.png?raw=true) 
+**Studied:Information Technology at the University of Jeddah,Saudi Arabia**
+
+![Study](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/study.png?raw=true) 
+**Currently Learning Full-Stack Web Development**
+
+![Target](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/target.png?raw=true) 
+**Actively Building Projects**
+
+![Route](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/route.png?raw=true) 
+**On the journey to become a professional developer**
+
+</div>
