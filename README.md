@@ -4,15 +4,12 @@
 ![Marwan's GitHub stats](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+in+Progress+🚀)
 </div>
  
-
-
 ## 👨‍💻 About Me
 
 - 🎓 **Studied** Information Technology at the University of Jeddah, Saudi Arabia
 - 📚️ **Currently Learning** Full-Stack Web Development by building real projects on Frontend Mentor, Udemy, and more
 - 🚀 **Goal** Become a professional Full-Stack Developer — one project at a time
 - 💡 **Fun Fact** I believe the best way to learn is to build something real
-
 
 ## 💻️ Tech Stack
 <div align="center">
@@ -47,9 +44,8 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanalasmi&theme=tokyonight)
----
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=marwanalasmi&theme=tokyonight)
----
 </div>
   
 ## 🌐 Connect With Me
