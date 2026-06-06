@@ -4,11 +4,7 @@
   
 ![Marwan's GitHub stats](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+in+Progress+🚀)
 </div>
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 7ded2bf (docs: update profile)
 ## 👨‍💻 About Me
 
 - 🎓 **Studied** Information Technology at the University of Jeddah, Saudi Arabia
@@ -49,16 +45,10 @@
 
 <div align="center">
 
-<<<<<<< HEAD
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanalasmi&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=marwanalasmi&theme=tokyonight)
-=======
-## ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanalasmi&theme=tokyonight)
 
-## ![GitHub Streak](https://streak-stats.demolab.com?user=marwanalasmi&theme=tokyonight)
-
->>>>>>> 7ded2bf (docs: update profile)
 </div>
   
 ## 🌐 Connect With Me
