@@ -1,9 +1,14 @@
 # Hi there, I'm Marwan 👋
+
 <div align="center">
   
 ![Marwan's GitHub stats](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+in+Progress+🚀)
 </div>
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 7ded2bf (docs: update profile)
 ## 👨‍💻 About Me
 
 - 🎓 **Studied** Information Technology at the University of Jeddah, Saudi Arabia
@@ -12,6 +17,7 @@
 - 💡 **Fun Fact** I believe the best way to learn is to build something real
 
 ## 💻️ Tech Stack
+
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,15 +27,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
 ## 🎯 Learning Next
+
 <div align="center">
   
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,14 +42,23 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
+<<<<<<< HEAD
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanalasmi&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=marwanalasmi&theme=tokyonight)
+=======
+## ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanalasmi&theme=tokyonight)
+
+## ![GitHub Streak](https://streak-stats.demolab.com?user=marwanalasmi&theme=tokyonight)
+
+>>>>>>> 7ded2bf (docs: update profile)
 </div>
   
 ## 🌐 Connect With Me
