@@ -24,23 +24,25 @@ This is where I keep the projects and experiments that come out of it.
 <div align="center">
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<p align="center">
+   <img src="https://img.shields.io/badge/Python-24283B?style=for-the-badge&logo=python&logoColor=7AA2F7" height="36" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-24283B?style=for-the-badge&logo=javascript&logoColor=7AA2F7" height="36" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-24283B?style=for-the-badge&logo=openjdk&logoColor=7AA2F7" height="36" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-24283B?style=for-the-badge&logo=php&logoColor=BB9AF7" height="36" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-24283B?style=for-the-badge&logo=html5&logoColor=7AA2F7" height="36" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-24283B?style=for-the-badge&logo=css&logoColor=BB9AF7" height="36" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-24283B?style=for-the-badge&logo=bootstrap&logoColor=BB9AF7" height="36" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/SQL-24283B?style=for-the-badge&logoColor=7AA2F7" height="36" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Odoo-24283B?style=for-the-badge&logo=odoo&logoColor=BB9AF7" height="36" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/Git-24283B?style=for-the-badge&logo=git&logoColor=7AA2F7" height="36" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7" height="36" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-24283B?style=for-the-badge&logoColor=7AA2F7" height="36" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-24283B?style=for-the-badge&logo=figma&logoColor=BB9AF7" height="36" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Linux-24283B?style=for-the-badge&logo=linux&logoColor=7AA2F7" height="36" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-24283B?style=for-the-badge&logo=windows&logoColor=7AA2F7" height="36" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Obsidian-24283B?style=for-the-badge&logo=obsidian&logoColor=BB9AF7" height="36" alt="Obsidian"/>
+  <img src="https://img.shields.io/badge/Notion-24283B?style=for-the-badge&logo=notion&logoColor=7AA2F7" height="36" alt="Notion"/>
+</p>
 
 </div>
 
