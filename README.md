@@ -13,9 +13,9 @@
 
 I like figuring out how things work, solving problems, and turning ideas into something real.
 
-Most of what I learn comes from trying things out, getting stuck, finding solutions, and improving along the way.
+I learn best by getting hands-on — experimenting, making mistakes, and figuring things out along the way.
 
-This is where I keep the projects and experiments that come out of it.
+Here you'll find some of the projects I've built and the ideas I've explored.
 
 [Explore my repositories →](https://github.com/marwanalasmi?tab=repositories)
 
